@@ -14,3 +14,8 @@ Working route for Climate.
 - <View> and <Text> are similar to <div> and <p> tags in web
 - Stylesheets are JS objects
 - Flatlists are an useful way to render a Component passing some Props
+
+- How to use Expo to create a React Native app
+- <View> and <Text> are similar to <div> and <p> tags in web
+- Stylesheets are JS objects
+- Flatlists are an useful way to render a Component passing some Props
